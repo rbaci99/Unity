@@ -1,2 +1,3 @@
 # Unity
-YMG's singular player game 
+YMG's general Unity folder
+
